@@ -2,7 +2,7 @@
 
 @section('title', 'Panel principal')
 
-@section('page_title', '📊 Panel principal')
+@section('page_title', '📊 PANEL CENTRAL')
 
 @section('actions')
     <a href="{{ route('pagos.create') }}" class="btn btn-primary">＋ Registrar pago</a>
