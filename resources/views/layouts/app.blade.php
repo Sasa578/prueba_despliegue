@@ -13,7 +13,7 @@
             <div class="sidebar-brand">
                 <span class="brand-icon">💸</span>
                 <div>
-                    <h1>Agenda de Pagos</h1>
+                    <h1>Agenda de PAGOS</h1>
                     <p>Recordatorios de servicios</p>
                 </div>
             </div>
